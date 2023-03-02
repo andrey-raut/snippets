@@ -5,6 +5,7 @@ npm i -D eslint-config-airbnb eslint-plugin-no-inline-styles eslint-plugin-react
 ```
 - Copy [.eslintrc.js](./.eslintrc.js) file to the your project's root dir.
 - Copy [.eslintignore](./.eslintignore) file to the your project's root dir.
+- Copy [tsconfig.eslint.json](./tsconfig.eslint.json) file to the your project's root dir.
 
 # Usage
 Add next scripts to the your root package.json file:

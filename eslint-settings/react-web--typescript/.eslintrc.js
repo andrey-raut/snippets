@@ -11,7 +11,7 @@ module.exports = {
     SharedArrayBuffer: 'readonly',
   },
   parserOptions: {
-    project: ['./tsconfig.json'],
+    project: ['./tsconfig.json', 'tsconfig.eslint.json'],
     ecmaVersion: 2020,
     sourceType: 'module',
     ecmaFeatures: {
