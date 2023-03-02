@@ -4,3 +4,6 @@
 
 # React Native
 - [Stylesheet creation helper](./styles/react-native-styles-creator/README.md)
+
+# Web React
+- [useSearchParams](./web-front/react-use-search-params/README.md)
